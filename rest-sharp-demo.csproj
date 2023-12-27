@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="IronPdf" Version="2023.12.6" />
     <PackageReference Include="IronZIP" Version="2023.12.1" />
     <PackageReference Include="RestSharp" Version="110.2.1-alpha.0.16" />
   </ItemGroup>
